@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed the 6th semester of BS in Information Technology (BSIT) with a CGPA of 3.6. I am a motivated IT student with a strong interest in software testing, networking, technical support, and automation scripting.
+I have completed the 7th semester of BS in Information Technology (BSIT) with a GPA of 3.45. I am a motivated IT student with a strong interest in software testing, networking, technical support, and automation scripting.
 
 I enjoy working on practical, problem-solving tasks and continuously improving my technical skill set through hands-on projects and learning.
 
