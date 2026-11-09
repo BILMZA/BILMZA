@@ -1,20 +1,68 @@
-# 💫 About Me:
-I have completed the 7th semester of BS in Information Technology (BSIT) with a GPA of 3.45. I am a motivated IT student with a strong interest in software testing, networking, technical support, and automation scripting.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=bilmza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162011791%3Fu%3Dc27fb505f50d33777cac502f8e121a66e9395b9f%26v%3D4" alt="bilmza hero visual" />
+</p>
 
-I enjoy working on practical, problem-solving tasks and continuously improving my technical skill set through hands-on projects and learning.
+<p align="center"><b>Bilal Hamza</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
+<p align="center"><a href="https://github.com/bilmza">GitHub</a></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalhamza11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizbilalhamza568055@gmail.com) 
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BILMZA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BILMZA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILMZA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=bilmza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162011791%3Fu%3Dc27fb505f50d33777cac502f8e121a66e9395b9f%26v%3D4" alt="bilmza projects visual" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=BILMZA&icon=0&color=0)](https://visitcount.itsvg.in)
+- [daily-deeds](https://github.com/BILMZA/daily-deeds) · ★ 2
+- [arch_tech_internship_task_3](https://github.com/BILMZA/arch_tech_internship_task_3) · ★ 1
+- [arch_tech_internship_task_2](https://github.com/BILMZA/arch_tech_internship_task_2) · ★ 1
+- [arch_tech_internship_task_1](https://github.com/BILMZA/arch_tech_internship_task_1) · ★ 1
+- [Arch_Technologies_Final_Task](https://github.com/BILMZA/Arch_Technologies_Final_Task) · ★ 1
+- [thulla-online](https://github.com/BILMZA/thulla-online) · ★ 1
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=bilmza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162011791%3Fu%3Dc27fb505f50d33777cac502f8e121a66e9395b9f%26v%3D4" alt="bilmza stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>28</b> public repositories, <b>12</b> stars, <b>51</b> contributions in the last year, a longest streak of <b>4</b> days and <b>3</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=bilmza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162011791%3Fu%3Dc27fb505f50d33777cac502f8e121a66e9395b9f%26v%3D4" alt="bilmza stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bilmza&theme=neon" alt="bilmza contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=bilmza&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162011791%3Fu%3Dc27fb505f50d33777cac502f8e121a66e9395b9f%26v%3D4" alt="bilmza social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Bilal Hamza · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
